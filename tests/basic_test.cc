@@ -1,17 +1,13 @@
 /**
- * @file rlu_driver.h
+ * @file basic_test.cc
  * @author Pranay Garg (pranaygarg2013@gmail.com)
- * @brief Basic RLU Driver header file
+ * @brief Basic Tests for RLU LIBRARY
  * @version 0.1
  * @date 2021-07-24
- *
+ * 
  * @copyright Copyright (c) 2021
- *
+ * 
  */
 
-#ifndef RLU_DRIVER_H
-#define RLU_DRIVER_H
-
+#include <catch2/catch.hpp>
 #include <iostream>
-
-#endif

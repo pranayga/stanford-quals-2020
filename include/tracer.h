@@ -1,12 +1,14 @@
-/** @file tracer.h
+/**
+ * @file tracer.h
+ * @author Pranay Garg (pranaygarg2013@gmail.com)
+ * @author Aditya Achanana (achanana@alumni.andrew.cmu.edu)
+ * @brief A tracer facility to provide
+ * more granular logging.
+ * @version 0.1
+ * @date 2021-07-24
  *
- *  @brief A tracer facility to provide
- *  more granular logging.
+ * @copyright Copyright (c) 2021
  *
- *  @author Pranay Garg     (pranayga)
- *  @author Aditya Achanana (achanana)
- *
- *  @bug No known bugs.
  */
 
 #ifndef RLU_TRACER_H

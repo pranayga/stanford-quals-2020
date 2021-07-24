@@ -1,6 +1,6 @@
 /**
  * @file rlu_driver.cc
- * @author Pranay Garg (pranayga)
+ * @author Pranay Garg (pranaygarg2013@gmail.com)
  * @brief A basic program with implements interfaces to
  * write basic RLU based programs for testing
  * @version 0.1
@@ -9,6 +9,7 @@
  * @copyright Copyright (c) 2021
  *
  */
+
 #include "rlu_driver.h"
 #include "tracer.h"
 
