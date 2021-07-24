@@ -34,3 +34,7 @@
 # Dir Excludes
 build/*
 .vscode/*
+docs/html/*
+
+# Tmp Files
+doxygen_warning
