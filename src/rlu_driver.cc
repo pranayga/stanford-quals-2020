@@ -11,6 +11,7 @@
  */
 
 #include "rlu_driver.h"
+#include "iostream"
 #include "tracer.h"
 
 using namespace std;

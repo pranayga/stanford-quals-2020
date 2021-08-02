@@ -34,6 +34,7 @@
 # Dir Excludes
 build/*
 .vscode/*
+.github/*
 docs/html/*
 
 # Tmp Files
